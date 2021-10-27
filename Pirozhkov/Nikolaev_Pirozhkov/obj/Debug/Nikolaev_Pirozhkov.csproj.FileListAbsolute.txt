@@ -1,0 +1,12 @@
+C:\Users\Student28\source\repos\Nikolaev_Pirozhkov\Nikolaev_Pirozhkov\bin\Debug\Nikolaev_Pirozhkov.exe.config
+C:\Users\Student28\source\repos\Nikolaev_Pirozhkov\Nikolaev_Pirozhkov\bin\Debug\Nikolaev_Pirozhkov.exe
+C:\Users\Student28\source\repos\Nikolaev_Pirozhkov\Nikolaev_Pirozhkov\bin\Debug\Nikolaev_Pirozhkov.pdb
+C:\Users\Student28\source\repos\Nikolaev_Pirozhkov\Nikolaev_Pirozhkov\obj\Debug\Nikolaev_Pirozhkov.csprojAssemblyReference.cache
+C:\Users\Student28\source\repos\Nikolaev_Pirozhkov\Nikolaev_Pirozhkov\obj\Debug\Nikolaev_Pirozhkov.MainForm.resources
+C:\Users\Student28\source\repos\Nikolaev_Pirozhkov\Nikolaev_Pirozhkov\obj\Debug\Nikolaev_Pirozhkov.Properties.Resources.resources
+C:\Users\Student28\source\repos\Nikolaev_Pirozhkov\Nikolaev_Pirozhkov\obj\Debug\Nikolaev_Pirozhkov.csproj.GenerateResource.cache
+C:\Users\Student28\source\repos\Nikolaev_Pirozhkov\Nikolaev_Pirozhkov\obj\Debug\Nikolaev_Pirozhkov.csproj.CoreCompileInputs.cache
+C:\Users\Student28\source\repos\Nikolaev_Pirozhkov\Nikolaev_Pirozhkov\obj\Debug\Nikolaev_Pirozhkov.exe
+C:\Users\Student28\source\repos\Nikolaev_Pirozhkov\Nikolaev_Pirozhkov\obj\Debug\Nikolaev_Pirozhkov.pdb
+C:\Users\Student28\source\repos\Nikolaev_Pirozhkov\Nikolaev_Pirozhkov\obj\Debug\Nikolaev_Pirozhkov.FormRegistration.resources
+C:\Users\Student28\source\repos\Nikolaev_Pirozhkov\Nikolaev_Pirozhkov\obj\Debug\Nikolaev_Pirozhkov.Autorize.resources
