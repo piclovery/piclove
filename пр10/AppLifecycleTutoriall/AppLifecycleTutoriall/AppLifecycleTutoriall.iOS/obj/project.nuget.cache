@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NRiNIwMtD59wjxyoIzYnC0LggHRUscNJlPIk8nf8k+BynWoraMHZ2tdabOuytz07L63Pbb/3e2n6ANcwDuOFoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\piclove\\Documents\\GitHub\\piclove\\пр10\\AppLifecycleTutoriall\\AppLifecycleTutoriall\\AppLifecycleTutoriall.iOS\\AppLifecycleTutoriall.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\piclove\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
